@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **Real time Projects**
 
-- 🌱 I’m currently learning **Back-End Technologies**
+- 🌱 I’m currently learning **Artificial Intelligence And Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://naveenagastya.github.io/Portfolio/](https://naveenagastya.github.io/Portfolio/)
 
-- 💬 Ask me about **Front-End, Java, C, C++, Python**
+- 💬 Ask me about **Front-End, Java, C, C++, Python, ML, Data Analytics**
 
 - 📫 How to reach me **naveenani2005@gmail.com**
 
 - 📄 Know about my experiences [https://naveenagastya.github.io/Portfolio/](https://naveenagastya.github.io/Portfolio/)
 
-- ⚡ Fun fact **I Think I am Versatile!**
+- ⚡ Fun fact **I Think I am Dynamic! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
