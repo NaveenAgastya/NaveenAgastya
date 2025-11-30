@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front-End, Java, C, C++, Python, ML, Data Analytics**
 
-- 📫 How to reach me **naveenani2005@gmail.com**
+- 📫 How to reach me **itznaveenagasthya@gmail.com**
 
 - 📄 Know about my experiences [https://naveenagastya.github.io/Portfolio/](https://naveenagastya.github.io/Portfolio/)
 
